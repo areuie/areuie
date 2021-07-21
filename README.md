@@ -1,9 +1,10 @@
 - hi i'm areuie!!
 - i'm still a student in high school learning more and more code as I go thru my journey
 - the coding languages that i know/ am currently learning are (in decending order of comfort):
-  -C
   -Java
-  -Python
   -Processing
+  -C
+  -Python
+  -Starting to learn html/css
 - how to reach me:
   -moon#6206
