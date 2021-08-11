@@ -7,4 +7,5 @@
   -Python
   -Starting to learn html/css
 - how to reach me:
-  -moon#6206
+  -moon#6206 on discord
+- still setting up github profile, dw
