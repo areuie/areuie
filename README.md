@@ -1,4 +1,4 @@
-- hi i'm areuie!!
+- hi i'm alisa!!
 - i'm still a student in high school learning more and more code as I go thru my journey
 - the coding languages that i know/ am currently learning are (in decending order of comfort):
   -Java
