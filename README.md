@@ -1,10 +1,1 @@
-- hi i'm alisa!!
-- i'm still a student in high school
-- the coding languages that i know/ am currently learning are (in decending order of comfort):
-  -Java
-  -C
-  -HTML/CSS
-  -Processing
-  -Python
-- how to reach me:
-  -moon#6206 on discord
+lol
